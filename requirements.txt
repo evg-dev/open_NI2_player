@@ -1,0 +1,7 @@
+numpy==1.19.2
+opencv-contrib-python==4.5.1.48
+opencv-python-headless==4.5.1.48
+openni==2.3.0
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.8.1
